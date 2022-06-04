@@ -1,6 +1,6 @@
 # Kimaye.com-clone
 
-![Screenshot (69)](<img src='./kimaye/public/k1.png'/>)
+![Screenshot](<img width="960" alt="k1" src="https://user-images.githubusercontent.com/100188131/171993663-707887fe-e3d9-4c94-91ca-f60e26554a70.png">)
 It is a web application to sell fresh fruits. To see different varieties of fruits you can
 visit the home page, shop, all fruits, fresh cuts, fruit combos. You can read the
 success story on our story page.
