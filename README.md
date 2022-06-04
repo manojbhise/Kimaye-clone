@@ -1,2 +1,2 @@
 # kimaye-clone
-live app link: https://stately-lolly-fadbeb.netlify.app/
+live app link: https://roaring-torrone-e4165b.netlify.app/
