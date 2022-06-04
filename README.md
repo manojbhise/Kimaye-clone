@@ -10,8 +10,6 @@ success story on our story page.
 <!-- <hr> -->
 - HTML, CSS, ReactJS
 
-- [Blog Link]()
-
 
 ## Features 
 <!-- --- -->
