@@ -26,8 +26,8 @@ success story on our story page.
 - If you want to purchase a product you can simply click on add to cart button.
   - After that you can add your shipping address to deliver your products, after you hit on proceed to payment button you will get alert saying, your order is placed 
 
-  ## screenshorts
-  #### these are some screenshort for overview website
+  ## Screenshots
+  #### these are some screenshort for overview of website
   -  platform where mens category available
   ![Screenshot (68)](https://user-images.githubusercontent.com/94555507/167801102-e97d0d14-db8f-4725-99ec-f650a0439441.png)
   - these are some trending items for kitchen and other
