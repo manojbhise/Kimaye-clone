@@ -1,37 +1,31 @@
 # Kimaye.com-clone
 
 ![Screenshot (69)](<img src='./kimaye/public/k1.png'/>)
-Uberic.com is a e-commerse website which provide groucery cloth mens womens garments and assaceries this is a high growing website 
+It is a web application to sell fresh fruits. To see different varieties of fruits you can
+visit the home page, shop, all fruits, fresh cuts, fruit combos. You can read the
+success story on our story page.
+
 ## Technologies we used
 <!-- <hr> -->
-- HTML , CSS
-- Browser LocalStorage for Frontend
+- HTML, CSS, ReactJS
 
 - [Blog Link](https://medium.com/@chandutheruler3/technology-workforce-development-website-clone-ad865a7a8ebc)
 
 
 ## Features 
 <!-- --- -->
-- Login and logout functionality.
-- Navbar contains various categories.
-- On product page particular category products 
-- on purchaging ,you can simply click and pay
+- Add to cart functionality.
+- Login/Logout feature
+- Can add shipping address  
 
 ## Steps to navigate the website:
 <!-- <hr> -->
-- On the Landing Page navbar right side , user can click on the Sign In or Create an Account and Cart logo
-- Once the user has logged in, they are taken back to the Landing Page.
-- On the top nav-bar, the user can navigate to the following categories: mens womens footware and seller
-- On the Mens/Womens
-  - On clicking on Mens 'Quick View' all content. Clicking on any content , the user will be shown the details of the submaenu along with the option .
-- On the Footware Catagory
-  - On clicking on Footware 'Quick View'  content skills & flow. Clicking on any content , the user will be shown the details of the submaenu along with the option.
-- On the Became a seller  
-  - On clicking on "Become a seller" 'Quick View'   a form after fillinfg the form and qulify criteria you will became a seller.
-- On the Add to cart Logo 
-  - On clicking on  Logo you redirected to cart page and you can manage your cart Item inside the cart by simly provide button.
-- On Sign in /Sign up  
-  - The user can get sign in if they have own acccount otherwise use can make his own account by simply fill form in sign Up parts of the page
+- On the Landing Page you can see Navbar, Body and Footer. You can navigate to Sign in/Sign up Page and also to the Cart page.
+- Once user signed in, it'll navigate to Landing Page.
+- You can dropdown menu on navbar, if you want to buy fruits you can visit all fruits, fresh cuts, fruit combos page. you can see different variety of products available there.
+- If you want to purchase a product you can simply click on add to cart button.
+  - After that you can add your shipping address to deliver your products, after you hit on proceed to payment button you will get alert saying, your order is placed 
+
   ## screenshorts
   #### these are some screenshort for overview website
   -  platform where mens category available
@@ -51,10 +45,9 @@ Uberic.com is a e-commerse website which provide groucery cloth mens womens garm
    
    ## Authors
 
-  1. [Shashi Ranjan](https://github.com/Sranjan4321) 
-  2. [Karina khairnar](https://github.com/karinakhairnar) 
-  3. [prabina Chaudhary](https://github.com/Prabin8144) 
-  4. [Rajendra Nali]()
-  5. [Saraswati Panda](https://github.com/saraswati121)
-  6. [Sambit Kumar Barik](https://github.com/sambitkumar10)
+  1. [Manoj Bhise](https://github.com/manojbhise) 
+  2. [Swati Saulanki](https://github.com/swatisaulanki) 
+  3. [Sankalp Jaiswal](https://github.com/SankalpJaiswal) 
+  4. [Nirbhay Pratap Singh](https://github.com/NirbhayPratapSingh)
+  5. [Ravi Bhushan](https://github.com/bhushanravi1996)
 
