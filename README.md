@@ -40,9 +40,9 @@ success story on our story page.
    
    ## Collaborators
 
-  1. [Manoj Bhise](https://github.com/manojbhise) 
-  2. [Swati Saulanki](https://github.com/swatisaulanki) 
-  3. [Sankalp Jaiswal](https://github.com/SankalpJaiswal) 
-  4. [Nirbhay Pratap Singh](https://github.com/NirbhayPratapSingh)
-  5. [Ravi Bhushan](https://github.com/bhushanravi1996)
+  * [Manoj Bhise](https://github.com/manojbhise) 
+  * [Swati Saulanki](https://github.com/swatisaulanki) 
+  * [Sankalp Jaiswal](https://github.com/SankalpJaiswal) 
+  * [Nirbhay Pratap Singh](https://github.com/NirbhayPratapSingh)
+  * [Ravi Bhushan](https://github.com/bhushanravi1996)
 
