@@ -27,7 +27,7 @@ success story on our story page.
   - After that you can add your shipping address to deliver your products, after you hit on proceed to payment button you will get alert saying, your order is placed 
 
   ## Screenshots
-  #### these are some screenshort for overview of website
+  #### These are some screenshort for overview of website
   -  platform where mens category available
   ![Screenshot (68)](https://user-images.githubusercontent.com/94555507/167801102-e97d0d14-db8f-4725-99ec-f650a0439441.png)
   - these are some trending items for kitchen and other
