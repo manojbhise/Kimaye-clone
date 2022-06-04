@@ -10,12 +10,16 @@ success story on our story page.
 <!-- <hr> -->
 - HTML, CSS, ReactJS
 
+## Live app Link
+- https://roaring-torrone-e4165b.netlify.app/
 
 ## Features 
 <!-- --- -->
 - Add to cart functionality.
 - Login/Logout feature
 - Can add shipping address  
+
+
 
 ## Steps to navigate the website:
 <!-- <hr> -->
@@ -34,7 +38,6 @@ success story on our story page.
   <img width="960" alt="2022-06-04 (4)" src="https://user-images.githubusercontent.com/100188131/171993977-a4b9f487-f2e7-43ec-b418-2271dfe3cfb4.png">
   <img width="960" alt="2022-06-04 (5)" src="https://user-images.githubusercontent.com/100188131/171993979-5bd1ea9d-3a5d-4973-a3bd-45cab234caf0.png">
 
-   - Live app link : https://roaring-torrone-e4165b.netlify.app/
    
    ## Collaborators
 
