@@ -23,7 +23,7 @@ success story on our story page.
 
 ## Steps to navigate the website:
 <!-- <hr> -->
-- On the Landing Page you can see Navbar, Body and Footer. You can navigate to Sign in/Sign up Page and also to the Cart page.
+- On the Landing Page you can see Navbar, Body and Footer. You can navigate to the Cart page.
 - Once user signed in, it'll navigate to Landing Page.
 - You can dropdown menu on navbar, if you want to buy fruits you can visit all fruits, fresh cuts, fruit combos page. you can see different variety of products available there.
 - If you want to purchase a product you can simply click on add to cart button.
