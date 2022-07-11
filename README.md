@@ -11,7 +11,7 @@ success story on our story page.
 - HTML, CSS, ReactJS
 
 ## Live app Link
-- https://roaring-torrone-e4165b.netlify.app/
+- https://kimaye-gamma.vercel.app/
 
 ## Features 
 <!-- --- -->
@@ -38,8 +38,12 @@ success story on our story page.
   <img width="960" alt="2022-06-04 (4)" src="https://user-images.githubusercontent.com/100188131/171993977-a4b9f487-f2e7-43ec-b418-2271dfe3cfb4.png">
   <img width="960" alt="2022-06-04 (5)" src="https://user-images.githubusercontent.com/100188131/171993979-5bd1ea9d-3a5d-4973-a3bd-45cab234caf0.png">
 
-   
-   ## Collaborators
+   <img width="960" alt="2022-07-11 (7)" src="https://user-images.githubusercontent.com/100188131/178312091-5c054dd5-075f-4942-8a08-0ad77861c63b.png">
+<img width="960" alt="2022-07-11 (8)" src="https://user-images.githubusercontent.com/100188131/178312115-f1381ad5-6a62-41b5-8b9c-bf9bba665424.png">
+
+   <img width="960" alt="2022-07-11 (9)" src="https://user-images.githubusercontent.com/100188131/178312133-01b4e33a-fe9b-46bb-baa8-5e3126ebd472.png">
+
+## Collaborators
 
   * [Manoj Bhise](https://github.com/manojbhise) 
   * [Swati Saulanki](https://github.com/swatisaulanki) 
