@@ -11,7 +11,6 @@ const dropdowns = {
     backgroundColor: "#EEEEEA"
 }
 
-
 const NavbarPage = () => {
 
   return (
@@ -35,7 +34,6 @@ const NavbarPage = () => {
                 <NavDropdown.Item href='learn'>TRACEABILITY</NavDropdown.Item>
                 <NavDropdown.Item href='learn'>BEYOND FRUITS</NavDropdown.Item>
             </NavDropdown>
-
             <Nav.Link href='/grow'>GROW</Nav.Link>
         </Nav>
         
@@ -43,7 +41,6 @@ const NavbarPage = () => {
             <NavLink href='/'>
                 <img className={styles.logo} href='home' src='https://cdn.shopify.com/s/files/1/0449/5225/6667/files/website-logo_400x.png?v=1596288204' />
             </NavLink>
-            
         </Nav>
 
         <Nav style={{display:"flex", gap:"30px"}}>
@@ -53,7 +50,7 @@ const NavbarPage = () => {
             <NavLink className={styles.icon}>
                 <i class="fa-solid fa-magnifying-glass"></i>
             </NavLink>
-            <NavLink href='lll' className={styles.icon}>
+            <NavLink href='/login' className={styles.icon}>
                 <i class="fa-solid fa-user"></i>
             </NavLink>
             <NavLink href='/cart' className={styles.icon}>
@@ -61,12 +58,7 @@ const NavbarPage = () => {
             </NavLink>
                 
         </Nav>
-
-        
-
-    </Navbar>
-
-    
+    </Navbar>  
   )
 }
 

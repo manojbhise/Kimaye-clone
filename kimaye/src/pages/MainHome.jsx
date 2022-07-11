@@ -5,9 +5,6 @@ import Index from "./Carousel";
 import {ControlledCarousel} from "../components/ControlledCarousel"
 
 const Div1 = styled.div`
-  // *, *:before, *:after {
-  //   background: brown;
-  // }
   text-align: center;
   background-image: url(https://cdn.shopify.com/s/files/1/0449/5225/6667/files/jazz-bg-texture-min_1.jpg?v=1616673456);
   background-repeat: no-repeat;
